@@ -1,0 +1,9 @@
+planets[0] = new Planet(3, 57.91, 0.04787); //mercurio
+    planets[1] = new Planet(7.5, 108.2, 0.03502); //venere
+    planets[2] = new Planet(8, 149.6, 0.02870); //terra
+    planets[3] = new Planet(8, 227.9, 0.027077); //marte
+    planets[4] = new Planet(89.5, 300, 0.01307); //giove
+    planets[5] = new Planet(37.5, 337, 0.00969); //saturno
+    planets[6] = new Planet(31, 350, 0.00681); // urano
+    planets[7] = new Planet(31, 375, 0.00543); // nettuno
+    //planets[n] = new Planet(raggio, distanza, velocità di orbita);
