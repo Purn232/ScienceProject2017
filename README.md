@@ -28,7 +28,9 @@ a inizio del programma il numero è *0*.
 Per aggiungere o diminuire il numero si usano le *freccie su e giu*.
 
 **0** : I pianeti orbitano normalmente
+
 **1** : I pianeti si dispongono in una linea retta
+
 **-1** : I pianeti si disporranno in posizioni diverse a seconda della posizione orizzontale del mouse
 
 
