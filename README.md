@@ -37,7 +37,7 @@ Per aggiungere o diminuire il numero si usano le *freccie su e giu*.
 NOTE EXTRA:
 --
 Il progetto GitHub e la documentazione sono stati creati 2 anni dopo la creazione del programma, (I commenti nel codice invece sono provenienti dal 2017). Per questo motivo ora riesco a vedere errori o stili di programmazione veramente inaccettabili (elenchi di codice quando si poteva invece usare un *for loop*, cattiva organizzazione dei file esterni, poca proceduralità(cioè che è difficilmente riutilizzabile), etc. etc.).
-Però, considerando che si trattava del primo progetto mai fatto, usando argomenti imparati solo da internet, sono abbastanza, ma non troppo, contento dei risultati ottenuti.
+Però, considerando il fatto che trattava del primo progetto mai fatto, usando argomenti imparati solo da internet, sono abbastanza soddisfatto dei risultati ottenuti.
 
 I file di Flash sono stati creati da un mio ex-compagno di classe del Messedaglia, Leonardo Castellini.
 
